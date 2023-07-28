@@ -82,10 +82,11 @@ admin.site.register(Student,StudentAdmin)
 
 ### OUTPUT
 
-##studentlist:
-![studentslist](Studentslist.png)
-##error list:
+##studentslist:
+![studentslist](studentslist.png)
+##errorlist:
 ![errorlist](primarykeyerror.png)
 
 
 ## RESULT
+The program was executed successfully
